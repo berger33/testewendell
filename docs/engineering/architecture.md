@@ -11,12 +11,12 @@
 
 ## Domínios previstos
 
-`world`: tempo, estações, clima, mapas e transições.  
-`farm`: terreno, ferramentas, cultivos e animais.  
-`player`: energia, inventário, progresso e opções.  
-`community`: NPCs, agendas, diálogos, vínculos e eventos.  
-`economy`: moedas fictícias, encomendas, preços e melhorias.  
-`persistence`: save versionado, migração, recuperação.  
+`world`: tempo, estações, clima, mapas e transições.
+`farm`: terreno, ferramentas, cultivos e animais.
+`player`: energia, inventário, progresso e opções.
+`community`: NPCs, agendas, diálogos, vínculos e eventos.
+`economy`: moedas fictícias, encomendas, preços e melhorias.
+`persistence`: save versionado, migração, recuperação.
 `ui`: toque, HUD, menus, diário, tutorial e acessibilidade.
 
 ## Dados e contratos
