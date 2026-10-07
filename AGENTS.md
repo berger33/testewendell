@@ -1,6 +1,6 @@
 # Instruções para agentes
 
-Leia `README.md`, `docs/engineering/plan.md`, `docs/engineering/architecture.md` e a ficha da fatia ativa antes de editar.
+Leia `README.md`, `docs/engineering/execution.md`, `docs/engineering/plan.md`, `docs/gdd/mechanics-catalog.md`, `docs/engineering/architecture.md`, `docs/engineering/contracts.md`, `docs/qa/test-plan.md` e a ficha da fatia ativa antes de editar.
 
 - Uma sessão do Arena Agent Mode = uma fatia pequena = no máximo um PR.
 - Preserve sistemas aceitos e limite o diff aos critérios da issue.

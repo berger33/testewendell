@@ -33,7 +33,7 @@ Simulador 2D de fazenda e comunidade para Android, voltado a adultos. O ciclo é
 | M13 | Apresentação | tutorial, mapa, diário, arte, áudio e acessibilidade | F15 |
 | M14 | Android | toque, pausa, proporções, desempenho, empacotamento | F01 a F16 |
 
-O termo “todas as mecânicas de Harvest Moon” precisa ser fechado em uma lista de títulos de referência e em fichas próprias para cada sistema. A matriz acima é a cobertura inicial do gênero, não uma alegação de equivalência a todos os jogos da franquia. Para cada Mxx, criar uma ficha com regras, dados, interface, dependências, casos extremos e testes. Marcar como concluído apenas com evidência.
+O termo “todas as mecânicas de Harvest Moon” precisa ser fechado em uma lista de títulos de referência e em fichas próprias para cada sistema. O catálogo detalhado está em `docs/gdd/mechanics-catalog.md`. A matriz acima é a cobertura inicial do gênero, não uma alegação de equivalência a todos os jogos da franquia. Para cada Mxx, criar uma ficha com regras, dados, interface, dependências, casos extremos e testes. Marcar como concluído apenas com evidência.
 
 ## Fatias e critérios de aceite
 
